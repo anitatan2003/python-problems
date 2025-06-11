@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "python-problems",
+			"path": ".."
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
