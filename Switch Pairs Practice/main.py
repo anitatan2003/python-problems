@@ -25,6 +25,7 @@ def switch_pairs(s):
 
     return switched
 
+
 def main():
     print(switch_pairs("hello there"))
 
